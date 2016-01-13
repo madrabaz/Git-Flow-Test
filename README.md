@@ -1,8 +1,10 @@
 # Git-Flow-Test
 
-## Feature: Test-1
+## Feature: test-1
 
-## Feature: Test-2
+## Feature: test-2
 > Pull Request Created
 
-## Feature: Test-3
+## Feature: test-3
+
+## Feature: test-4
