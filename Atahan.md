@@ -1,8 +1,8 @@
-# Atahan Info
+# Atahan Information
 
 ## Git Flow Nedir?
 
 > Test
 > Test 2
 
-## Info 2
+## Information 2
